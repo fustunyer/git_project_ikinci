@@ -6,6 +6,8 @@ public class Deneme {
 		System.out.println("ikinci satir kodum");
 		System.out.println("remote degisiklik");
 		System.out.println("fatih ustunyer");
+		System.out.println("cakisma hamza");
+		
 		
 	}
 
